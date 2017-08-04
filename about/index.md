@@ -1,36 +1,19 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about, coding, GA, investing]
+date: 2017-06-21
 comments: false
 ---
 
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center> 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## A Bit About Myself
 
-## Preview
+I'm 26, I live in London and am an avid Spurs fan. Outside of coding, I enjoy cooking and am an enthusiastic investor on the stock market. I write [Trader Tim's blog](https://www.tradertim.co.uk) on investing and trading, which donates 10% of profits from investments to charity.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## Before Coding
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+I’ve always loved finding the solutions to problems. At university, I gained experience problem-solving in a degree in Law before working at an AdTech company in product development. As a Product Manager at Unruly, I worked closely with Developers and worked on technical workstreams. For example, I managed projects involving algorithms, APIs and making applications compatible for mobile. This gave exposure to code, and how developers work. It was something that was really interesting to me. Therefore, alongside my full-time role at Unruly, I began coding. I did online courses, Codecademy and built some simple projects. The more coding I did, the more I was convinced that a career in development was right for me. The main problem I faced when trying to learn to code was finding the time. I wrote some code in my job, but not that regularly. Balancing a full-time job while trying to code in the evenings and weekends wasn’t working.
 
-## Getting Started
+## Moving into Coding
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+While I was making progress learning to code in my spare time, I wanted to learn more quickly. Therefore, I left my role at Unruly and accepted a place at General Assembly on the Web Development Immersive program. I loved the General Assembly course. The ability to code on a full-time basis was something that I had been wanting to for a long time. Now, having finished the course, I am excited to apply the skills to tackle more complex problems and build upon the web development skills that I have learnt at GA.
