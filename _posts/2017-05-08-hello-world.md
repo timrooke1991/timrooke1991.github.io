@@ -4,7 +4,8 @@ title: "Hello World!"
 date: 2017-05-08
 excerpt: "A bit about myself. My name is Tim. I am an avid Spurs fan. I previously worked at Unruly, an AdTech company, as a Product Manager. However, I have just started a full-time Web Development Immersive course at General Assembly."
 tags: [about, GA, coding]
-comments: true
+comments: false
+feature: "../assets/img/profilepic.jpg"
 ---
 
 ## Welcome to my blog!

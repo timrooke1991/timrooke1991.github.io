@@ -21,6 +21,9 @@ tag:
 - Full Stack
 - Bulma
 comments: false
+feature: "../assets/img/blogitive/index-page.png"
+heroku: "https://aqueous-lake-61312.herokuapp.com/"
+github: "https://github.com/timrooke1991/wdi-ldn-project-1"
 ---
 
 ## Blogitive
@@ -34,7 +37,7 @@ comments: false
 
 #### Run Locally
 
-- Download or clone the [Github repo](https://github.com/timrooke1991/project-0)
+- Download or clone the [Github repo](https://github.com/timrooke1991/wdi-ldn-project-1)
 - Run `npm install` or `yarn` in the terminal to download required dependencies
 - Run `gulp` in the terminal to compile the source code and open in browser
 

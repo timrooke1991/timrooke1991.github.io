@@ -17,6 +17,9 @@ tag:
 - Front End
 - ES6
 comments: false
+feature: "../assets/img/soccer-manager/match-screen.png"
+heroku: "https://dry-garden-10776.herokuapp.com/"
+github: "https://github.com/timrooke1991/project-0"
 ---
 
 # Soccer Manager

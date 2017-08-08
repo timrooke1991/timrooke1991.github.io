@@ -1,16 +1,6 @@
 ---
 sitemap: false
 ---
-
-/*
- *
- *  Moon
- *
- *  Designer: Taylan Tatlı
- *  WEB: http://taylantatli.me
- *
-*/
-
 // Partials
 @import "variables";
 @import "mixins";
@@ -24,4 +14,194 @@ sitemap: false
 @import "vendor/font-awesome";
 @import "vendor/animate";
 @import "vendor/magnific-popup/magnific-popup";
-@import "print"
+@import "print";
+
+body {
+  background: #236F9D;
+}
+
+header div.wrapper {
+  margin: 5em auto;
+  box-shadow: 0 3px 5px 2px rgba(40,40,40,0.3);
+  border-radius: 0;
+}
+nav { padding-bottom: 35px; }
+nav .nav-logo {
+  width: 250px;
+  padding: 25px 0;
+  margin-top: -130px;
+}
+
+nav ul {
+  display: inline-block;
+  width: 100%;
+  li {
+    padding: 10px;
+    box-sizing: border-box;
+    display: inline-block;
+    width: 31%;
+    text-align: center;
+    cursor: pointer;
+    a { color: #1b6394; }
+    &:hover {
+      background: #1b6394;
+      color: white;
+
+
+    }
+  }
+}
+
+.title {
+  width: 100%;
+  margin-top: 120px;
+  a.zoombtn {
+    text-align: center;
+    width: 50px;
+    color: white !important;
+    padding: 10px;
+    letter-spacing: 1.5px;
+    margin: 0 10px;
+    border-radius: 2px;
+    border: 2px solid transparent;
+    &:hover {
+      border: 2px solid white;
+    }
+  }
+
+}
+
+.tr-logo {
+  position: absolute;
+  z-index: -1;
+  padding: 10px 13% 10px 11%;
+  width: 100%;
+  display: block;
+  border-radius: 3px;
+}
+
+/* Cog animation */
+
+.how-it-works {
+  margin: 0px auto;
+}
+
+a.tour .animation {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    // opacity: .4;
+}
+
+#cog-animation img { position: absolute; }
+#cog-animation .cog1 {
+    top: 60px;
+    left: 8px;
+    width: 75px;
+}
+#cog-animation .cog2 {
+    top: 5px;
+    left: 15px;
+    width: 56px;
+}
+#cog-animation .cog3 {
+    top: 40px;
+    left: 67px;
+    width: 40px;
+}
+#cog-animation .cog4 {
+    top: 75px;
+    left: 81px;
+    width: 50px;
+}
+#cog-animation .cog5 {
+    top: 48px;
+    left: 108px;
+    width: 30px;
+}
+@-webkit-keyframes clockwise {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+    50% {
+        -webkit-transform: rotate(180deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+@keyframes clockwise {
+    0% {
+        transform: rotate(0deg);
+    }
+    50% {
+        transform: rotate(180deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+@-webkit-keyframes counterclockwise {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+    50% {
+        -webkit-transform: rotate(-180deg);
+    }
+    100% {
+        -webkit-transform: rotate(-360deg);
+    }
+}
+@keyframes counterclockwise {
+    0% {
+        transform: rotate(0deg);
+    }
+    50% {
+        transform: rotate(-180deg);
+    }
+    100% {
+        transform: rotate(-360deg);
+    }
+}
+#cog-animation .cog1 {
+    -webkit-animation: clockwise 4s linear infinite;
+    animation: clockwise 4s linear infinite;
+}
+#cog-animation .cog2 {
+    -webkit-animation: counterclockwise 3s linear infinite;
+    animation: counterclockwise 3s linear infinite;
+}
+#cog-animation .cog3 {
+    -webkit-animation: counterclockwise 2.5s linear infinite;
+    animation: counterclockwise 2.5s linear infinite;
+}
+#cog-animation .cog4 {
+    -webkit-animation: counterclockwise 3s linear infinite;
+    animation: counterclockwise 3s linear infinite;
+}
+#cog-animation .cog5 {
+    -webkit-animation: clockwise 2s linear infinite;
+    animation: clockwise 2s linear infinite;
+}
+
+/* Code animation */
+#code-animation {
+    width: 150px;
+    height: 130px;
+    margin-top: 20px;
+    text-align: left;
+    color: white;
+    font-family: 'DejaVu Sans Mono', 'Source Code Pro', Menlo, Courier, monospace;
+    font-size: 14px;
+    position: relative;
+}
+
+a.tour {
+    text-decoration: none;
+    color: white;
+    cursor: default !important;
+}
+a.tour * {
+    transition: opacity .3s;
+    opacity: 1;
+}
