@@ -42,6 +42,9 @@ github: "https://github.com/obfusticatedcode/wdi27-group-project"
 - Run `npm install` or `yarn` in the terminal to download required dependencies
 - Run `gulp` in the terminal to compile the source code and open in browser
 
+> **Note**: You'll need to have `gulp-cli` installed globally
+> `npm i -g gulp-cli`
+
 #### View Online
 
 - [View on Heroku](https://tjc-app.herokuapp.com/)

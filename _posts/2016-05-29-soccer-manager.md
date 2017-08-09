@@ -35,6 +35,8 @@ github: "https://github.com/timrooke1991/project-0"
 
 - Download or clone the [Github repo](https://github.com/timrooke1991/project-0)
 - Run `gulp` in the terminal to compile the source code and open in browser
+> **Note**: You'll need to have `gulp-cli` installed globally
+> `npm i -g gulp-cli`
 
 #### View Online
 
