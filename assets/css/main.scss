@@ -90,7 +90,7 @@ a.tour .animation {
     position: relative;
     width: 150px;
     height: 150px;
-    margin: 50px auto 0;
+
 }
 
 #cog-animation img { position: absolute; }
@@ -200,7 +200,7 @@ a.tour {
     text-decoration: none;
     color: white;
     cursor: default !important;
-    margin: 50px auto 0;
+    
 }
 a.tour * {
     transition: opacity .3s;
@@ -208,8 +208,7 @@ a.tour * {
 }
 
 @media screen and (max-width: 500px) {
-  // a.tour {
-  //   margin-top: 100px;
-  //   margin-left: 36%;
-  // }
+  a.tour .animation {
+    margin: 50px auto 0;
+  }
 }
