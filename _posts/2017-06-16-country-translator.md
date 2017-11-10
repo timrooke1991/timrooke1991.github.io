@@ -40,6 +40,11 @@ github: "https://github.com/timrooke1991/country_translator"
 
 This is a simple command line tool that translates Country names from English to another chosen language. This is something that I required for a website that I was building, so spend some time converting it into a tool for others to use as well. The tool scrapes Wikipedia to get the required translation for 250 countries.
 
+<figure>
+	<img src="../assets/img/country-translator/terminal.png">
+	<figcaption>With a couple of commands, receive your translations as a csv file!</figcaption>
+</figure>
+
 ### [](https://github.com/timrooke1991/country_translator#technologies-used)Technologies used
 
 The list of the languages and gems used in the project:
