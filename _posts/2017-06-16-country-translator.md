@@ -19,8 +19,8 @@ github: "https://github.com/timrooke1991/country_translator"
 ## Country Translator
 
 <figure>
-	<img src="../assets/img/country-translator/output.png"></a>
-	<figcaption><a href="#" title="A simple command line tool that translates country names from English to another chosen language and returns a csv</figcaption>
+	<img src="../assets/img/country-translator/output.png">
+	<figcaption><a href="#" title="A simple command line tool that translates country names from English to another chosen language and returns a csv</a></figcaption>
 </figure>
 
 ### [](https://github.com/timrooke1991/country_translator#setup)Installation & Setup
