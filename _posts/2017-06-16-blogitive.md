@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blogitive"
-date:   2016-06-16
+date:   2017-06-16
 excerpt: "A blogging platform coupled with IBM Watson's sentiment analysis API, which shows how negative or positive a post is"
 project: true
 tag:

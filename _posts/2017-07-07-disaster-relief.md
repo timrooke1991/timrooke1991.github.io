@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Disaster Relief"
-date:   2016-07-07
+date:   2017-07-07
 excerpt: "Disaster Relief enables individuals to respond to a tragedy by either posting for help needed or offering aid to those affected"
 project: true
 tag:
