@@ -93,7 +93,7 @@ The list of the software and languages used in the project, for example:
 
 ### [](https://github.com/timrooke1991/wdi-ldn-project-1#challenges-faced)Challenges faced
 
-The biggest challenge of the application was working with the API payload. This came in a large object, so I had to plan what data I wanted to use and store this in the database. Once done, this allows me to access the data in a more manageable way, which made including this in my application easier.
+The biggest challenge of the application was working with the API payload. This came in a large object, so I had to plan what data I wanted to use and store this in the database. Once done, this allowed me to access the data in a more manageable way, which made including this in my application easier.
 
 ### [](https://github.com/timrooke1991/wdi-ldn-project-1#rounding-it-off)Rounding it off
 
