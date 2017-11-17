@@ -86,7 +86,6 @@ The list of the software and languages used in the project, for example:
 - node.js
 - Express
 - Mongo
-- Yarn
 - NPM
 - Git
 - Github
