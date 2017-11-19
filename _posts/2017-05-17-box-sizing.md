@@ -10,7 +10,7 @@ feature: "../assets/img/html-css.jpg"
 
 # CSS and Box Sizing
 
-Over the last couple of days, we’ve been learning HTML and CSS. We spent a day on HTML. We talked about semantic HTML and best practice. For our homework, we were given a site and we had to replicate what we thought the HTML structure should be. It was a bit weird as we were only doing HTML, no CSS or JavaScript, It was weird to add HTML mark up to the text provided and not see any visible change. Also, with semantic HTML elements, I find myself perhaps overthinking things a little. I worry about should this be a section or a div, should this be in the be a section be a div, and so on, but it doesn’t make a visible difference.
+Over the last two days, we’ve been learning HTML and CSS. We spent a day on HTML. We talked about semantic HTML and best practice. For our homework, we were given a site and we had to replicate what we thought the HTML structure should be. It was a bit weird as we were only doing HTML, no CSS or JavaScript, It was weird to add HTML mark up to the text provided and not see any visible change. Also, with semantic HTML elements, I find myself perhaps overthinking things a little. I worry about should this be a section or a div, should this be in the be a section be a div, and so on, but it doesn’t make a visible difference.
 
 A cool resource we were shown was [HTML5 Doctor](http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf). Basically, it’s a flowchart documenting which HTML elements should be used and when they should be used. Also, another cool resource we were shown was this [evolution of the web graphic](http://www.evolutionoftheweb.com/?hl=en-gb), which is pretty cool.
 
