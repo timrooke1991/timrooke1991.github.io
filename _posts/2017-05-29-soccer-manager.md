@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Soccer Manager"
-date:   2016-05-29
+date:   2017-05-29
 excerpt: "A basic football management simulation game built with CSS, HTML and JavaScript"
 project: true
 tag:
