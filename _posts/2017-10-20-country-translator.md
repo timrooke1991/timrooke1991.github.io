@@ -2,7 +2,7 @@
 layout: post
 title:  "Wikipedia Country Translator"
 date:   2017-10-20
-excerpt: "A simple command line tool that translates country names from English to another chosen language"
+excerpt: "A simple command line tool that translates country names from English to another chosen language using Ruby"
 project: true
 tag:
 - Ruby
