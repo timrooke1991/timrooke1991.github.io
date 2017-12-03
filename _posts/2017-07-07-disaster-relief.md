@@ -2,7 +2,7 @@
 layout: post
 title:  "Disaster Relief"
 date:   2017-07-07
-excerpt: "Disaster Relief enables individuals to respond to a tragedy by either posting for help needed or offering aid to those affected"
+excerpt: "Disaster Relief is a MEAN stack app, which enables individuals to respond to a tragedy by either posting for help needed or offering aid to those affected."
 project: true
 tag:
 - HTML 5
