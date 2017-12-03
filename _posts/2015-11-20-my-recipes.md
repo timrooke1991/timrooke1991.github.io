@@ -2,7 +2,7 @@
 layout: post
 title:  "myRecipes"
 date:   2015-11-20
-excerpt: "An app where users could post recipes, list ingredients and like other people's recipes"
+excerpt: "An app where users could post recipes, list ingredients and like other people's recipes using Ruby on Rails"
 project: true
 tag:
 - HTML5
