@@ -29,7 +29,7 @@ github: "https://github.com/timrooke1991/postcode-finder"
 - Fire up `localhost`
 - [GitHub link](https://github.com/timrooke1991/postcode-finder)
 
-This Postcode Fine App is available to view and register [here.](https://immense-beach-64457.herokuapp.com/)
+This Postcode Finder App is available to view and register [here.](https://immense-beach-64457.herokuapp.com/)
 
 ## Project Description
 
