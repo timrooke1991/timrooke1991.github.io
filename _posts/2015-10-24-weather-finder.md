@@ -22,7 +22,7 @@ github: "https://github.com/timrooke1991/weather-finder"
 
 ---
 
-# Postcode Finder
+# Weather Finder
 
 #### Installation and setup
 
