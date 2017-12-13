@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weather Finder"
-date:   2015-10-24
+date:   2015-10-04
 excerpt: "This PHP app can be used to get the weather forecast for any place in the world"
 project: true
 tag:
@@ -16,7 +16,7 @@ tag:
 - Git
 - Github
 comments: false
-feature: "../assets/img/postcode-finder/screen.png"
+feature: "../assets/img/weather-finder/screen.png"
 heroku: "https://glacial-woodland-57032.herokuapp.com/"
 github: "https://github.com/timrooke1991/weather-finder"
 
@@ -47,7 +47,7 @@ In order to get the data, I use PHP to scrap the 3 Day Weather Forecast Summary 
 
 There is some basic validation on the site. If a forecast can’t be found, it prompts the user to check their spelling. Also, if nothing is entered, it prompts the user to enter a city.
 
-![Landing Page](../assets/img/postcode-finder/error.png)
+![Landing Page](../assets/img/weather-finder/error.png)
 
 ### [](https://github.com/timrooke1991/weather-finder#technologies-used)Technologies used
 
