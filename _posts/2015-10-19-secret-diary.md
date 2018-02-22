@@ -16,7 +16,6 @@ tag:
 - Github
 comments: false
 feature: "../assets/img/secret-diary/screen.png"
-heroku: "https://ancient-meadow-66669.herokuapp.com"
 github: "https://github.com/timrooke1991/secret-diary"
 
 ---
@@ -28,7 +27,7 @@ github: "https://github.com/timrooke1991/secret-diary"
 - Download or clone the repo
 - [GitHub link](https://github.com/timrooke1991/secret-diary)
 
-This Secret Diary App is available to view and register [here.](https://immense-beach-64457.herokuapp.com/)
+This Secret Diary App has been taken offline. This was an early project that I did to understand PHP and MySQL several years ago. The md5 hashing algorithm is now not a suitably secure, so as a result I have taken this application offline.
 
 ## Project Description
 
