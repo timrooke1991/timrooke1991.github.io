@@ -27,7 +27,7 @@ github: "https://github.com/timrooke1991/secret-diary"
 - Download or clone the repo
 - [GitHub link](https://github.com/timrooke1991/secret-diary)
 
-This Secret Diary App has been taken offline. This was an early project that I did to understand PHP and MySQL several years ago. The md5 hashing algorithm is now not a suitably secure, so as a result I have taken this application offline.
+This Secret Diary App has been taken offline. This was an early project that I did to understand PHP and MySQL several years ago. The md5 hashing algorithm is now not a suitably secure password storage mechanism, so as a result I have taken this application offline.
 
 ## Project Description
 
