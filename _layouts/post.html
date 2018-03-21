@@ -16,12 +16,6 @@ layout: compress
           {% include nav2.html %}
             <div class="content">
 
-                {% for e in site.medium_posts %}
-                    <div class="row">
-                      <h3>{{e.title}}</h3>
-                      <p>{{e.feed_content}}</p>
-                    </div>
-                {% endfor %}
 
                 <div class="post-title {% if page.feature %} feature {% endif %}">
                     <h1>{{ page.title }}</h1>

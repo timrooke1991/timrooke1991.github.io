@@ -69,9 +69,6 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
 
-collections:
-  - medium_posts
-  
 jekyll-mentions:
     base_url: https://github.com
 
