@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AWS note Reader"
+title:  "AWS Note Reader"
 date:   2018-03-02
 excerpt: "S3 static website allows you to type text such as revision notes or thoughts and have it read back to you!"
 project: true
@@ -36,7 +36,7 @@ This S3 static website allows you to type text such as revision notes or thought
 
 <figure>
 	<img src="../assets/img/note-reader/screen.png">
-	<figcaption>With a couple of commands, receive your translations as a csv file!</figcaption>
+	<figcaption>Write some text, choose a voice and have it read back to you in seconds!</figcaption>
 </figure>
 
 ### [](https://github.com/timrooke1991/aws-note-reader#features)Features
